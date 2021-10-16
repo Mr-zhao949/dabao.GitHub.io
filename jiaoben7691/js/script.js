@@ -7,43 +7,43 @@ new Vue({
         {
           img1: "img/77.jpg",
           img2: "img/78.jpg",
-          img3: "img/79.jpg",
-          title: "NEKO",
+          img3: "img/79.jpg", 
+          title: "charming",
           isOpen: false
         },
         {
           img1: "img/80.jpg",
           img2: "img/81.jpg",
           img3: "img/82.jpg",
-          title: "NYAN",
+          title: "elegant",
           isOpen: false
         },
         {
           img1: "img/70.jpg",
           img2: "img/69.jpg",
           img3: "img/92.jpg",
-          title: "NEKO",
+          title: "pretty",
           isOpen: false
         },
         {
           img1: "img/89.jpg",
           img2: "img/90.jpg",
           img3: "img/91.jpg",
-          title: "NYANNYAN",
+          title: "adorable",
           isOpen: false
         },
         {
           img1: "img/65.jpg",
           img2: "img/66.jpg",
           img3: "img/67.jpg",
-          title: "NEKONEKO",
+          title: "stunning",
           isOpen: false
         },
         {
           img1: "img/64.jpg",
           img2: "img/68.jpg",
           img3: "img/91.jpg",
-          title: "NYANNYAN",
+          title: "beautiful",
           isOpen: false
         }
       ]
